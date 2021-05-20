@@ -3,7 +3,7 @@ object ExamenBigData {
 
   def main(args: Array[String]): Unit = {
     println("bonjour")
-    val maliste=List("JVC","JJJ","ecolen","paysn")
+    val maliste=List("Java","XYZ","amen","lausann")
     println(liste_Function(maliste))
   }
 
