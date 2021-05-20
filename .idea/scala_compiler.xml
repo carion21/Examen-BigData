@@ -2,5 +2,6 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <option name="incrementalityType" value="SBT" />
+    <profile name="Maven 1" modules="Examen Big Data" />
   </component>
 </project>

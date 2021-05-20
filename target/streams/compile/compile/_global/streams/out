@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/carion/IdeaProjects/Examen Big Data/src/main/java/ExamenBigData.scala:46:5: enclosing method list_double has result type Unit: return value discarded[0m
+[0m[[0m[33mwarn[0m] [0m[0m    return listsortie[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

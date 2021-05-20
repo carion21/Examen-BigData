@@ -1,0 +1,37 @@
+[0m[[0m[31merror[0m] [0m[0m/home/carion/IdeaProjects/Examen Big Data/src/main/resources/scala/ExamenBigData.scala:1:8: object * is not a member of package java.util[0m
+[0m[[0m[31merror[0m] [0m[0mimport java.util.*[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/carion/IdeaProjects/Examen Big Data/src/main/resources/scala/ExamenBigData.scala:13:8: value foreach is not a member of Unit[0m
+[0m[[0m[31merror[0m] [0m[0m    ld.foreach(elt => {[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/carion/IdeaProjects/Examen Big Data/src/main/resources/scala/ExamenBigData.scala:20:9: only traits and abstract classes can have declared but undefined members[0m
+[0m[[0m[31merror[0m] [0m[0m    val nliste : List[String][0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/carion/IdeaProjects/Examen Big Data/src/main/resources/scala/ExamenBigData.scala:23:26: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String[0m
+[0m[[0m[31merror[0m] [0m[0m required: StringBuilder[0m
+[0m[[0m[31merror[0m] [0m[0m        nliste.addString(valeur)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/carion/IdeaProjects/Examen Big Data/src/main/resources/scala/ExamenBigData.scala:31:9: only traits and abstract classes can have declared but undefined members[0m
+[0m[[0m[31merror[0m] [0m[0m    val listurl : List[List[String]][0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/carion/IdeaProjects/Examen Big Data/src/main/resources/scala/ExamenBigData.scala:32:9: only traits and abstract classes can have declared but undefined members[0m
+[0m[[0m[31merror[0m] [0m[0m    var listesortie : List[List[String]][0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/carion/IdeaProjects/Examen Big Data/src/main/resources/scala/ExamenBigData.scala:34:13: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m    listurl = List([0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/carion/IdeaProjects/Examen Big Data/src/main/resources/scala/ExamenBigData.scala:48:19: not found: value Pattern[0m
+[0m[[0m[31merror[0m] [0m[0m    val pattern = Pattern.compile(".*'([^']*)'.*")[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/carion/IdeaProjects/Examen Big Data/src/main/resources/scala/ExamenBigData.scala:51:11: only traits and abstract classes can have declared but undefined members[0m
+[0m[[0m[31merror[0m] [0m[0m      val tab : List[String][0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/carion/IdeaProjects/Examen Big Data/src/main/resources/scala/ExamenBigData.scala:54:13: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m        tab = Array(matcher.group(1), element.last)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/carion/IdeaProjects/Examen Big Data/src/main/resources/scala/ExamenBigData.scala:59:5: enclosing method list_double has result type Unit: return value discarded[0m
+[0m[[0m[33mwarn[0m] [0m[0m    return listesortie[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0m10 errors found[0m
